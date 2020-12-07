@@ -216,7 +216,7 @@ dependencies {
         exclude module: 'mapstruct'
     }
     // https://mvnrepository.com/artifact/io.github.jhipster/jhipster-framework
-    compile group: 'io.github.jhipster', name: 'jhipster-framework', version: '2.0.29'
+    compile group: 'io.github.jhipster', name: 'jhipster-framework', version: '3.9.1'
 
     compile "io.springfox:springfox-bean-validators"
     compile "mysql:mysql-connector-java"
